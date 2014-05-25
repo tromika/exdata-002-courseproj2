@@ -1,1 +1,3 @@
 *.rds
+Thumbs.db
+data/
